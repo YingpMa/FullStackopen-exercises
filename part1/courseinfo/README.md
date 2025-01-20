@@ -1,8 +1,11 @@
-# React + Vite
+# Course Information Application (Exercises 1.1–1.5)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This repository contains my solution for **Full Stack Open** exercises 1.1–1.5. The application displays course information, including parts and their exercise counts, and evolves step by step through the exercises.
 
-Currently, two official plugins are available:
+## Implementation Progress
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **1.1**: Created a basic React app to display course details and exercise totals.
+- **1.2**: Refactored into components: `Header`, `Content`, and `Total`.
+- **1.3**: Organized course data into objects.
+- **1.4**: Consolidated objects into an array for better structure.
+- **1.5**: Combined course name and parts into a single object.
